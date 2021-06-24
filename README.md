@@ -1,1 +1,2 @@
-# pro-multiple-car
+# synchronousBallMovement
+Ball moving synchronously
